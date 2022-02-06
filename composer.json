@@ -1,0 +1,17 @@
+{
+    "name": "backend/database",
+    "description": "database as querybuilder",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Backend\\Database\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ahmed mahfouz",
+            "email": "ahmedmahfouz2060@gmail.com"
+        }
+    ],
+    "require": {}
+}
