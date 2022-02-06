@@ -1,10 +1,10 @@
 {
-    "name": "backend/database",
+    "name": "ahmedmahfouzbackend/database",
     "description": "database as querybuilder",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Backend\\Database\\": "src/"
+            "Ahmedmahfouzbackend\\Database\\": "src/"
         }
     },
     "authors": [
